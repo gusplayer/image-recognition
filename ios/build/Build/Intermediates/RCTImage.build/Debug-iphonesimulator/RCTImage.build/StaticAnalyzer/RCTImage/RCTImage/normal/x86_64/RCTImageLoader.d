@@ -1,0 +1,29 @@
+dependencies: \
+  /Users/fosterapps/react-native/Led3/node_modules/react-native/Libraries/Image/RCTImageLoader.m \
+  /Users/fosterapps/react-native/Led3/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/fosterapps/react-native/Led3/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/fosterapps/react-native/Led3/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/fosterapps/react-native/Led3/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/fosterapps/react-native/Led3/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/fosterapps/react-native/Led3/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/fosterapps/react-native/Led3/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/fosterapps/react-native/Led3/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/fosterapps/react-native/Led3/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/fosterapps/react-native/Led3/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/fosterapps/react-native/Led3/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/fosterapps/react-native/Led3/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTImageLoader.h \
+  /Users/fosterapps/react-native/Led3/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/fosterapps/react-native/Led3/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/fosterapps/react-native/Led3/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/fosterapps/react-native/Led3/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/fosterapps/react-native/Led3/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/fosterapps/react-native/Led3/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/fosterapps/react-native/Led3/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTResizeMode.h \
+  /Users/fosterapps/react-native/Led3/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTURLRequestHandler.h \
+  /Users/fosterapps/react-native/Led3/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTURLRequestDelegate.h \
+  /Users/fosterapps/react-native/Led3/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTNetworking.h \
+  /Users/fosterapps/react-native/Led3/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventEmitter.h \
+  /Users/fosterapps/react-native/Led3/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTNetworkTask.h \
+  /Users/fosterapps/react-native/Led3/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/fosterapps/react-native/Led3/node_modules/react-native/Libraries/Image/RCTImageCache.h \
+  /Users/fosterapps/react-native/Led3/node_modules/react-native/Libraries/Image/RCTImageUtils.h
