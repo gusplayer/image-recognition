@@ -4,7 +4,15 @@
         "source": "/Users/fosterapps/react-native/Led3/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.42.3/res/xml/preferences.xml"
     },
     {
+        "merged": "/Users/fosterapps/react-native/image-recognition/android/app/build/intermediates/res/merged/debug/xml/provider_paths.xml",
+        "source": "/Users/fosterapps/react-native/image-recognition/android/app/build/intermediates/exploded-aar/Led3/react-native-image-picker/unspecified/res/xml/provider_paths.xml"
+    },
+    {
         "merged": "/Users/fosterapps/react-native/Led3/android/app/build/intermediates/res/merged/debug/xml/provider_paths.xml",
         "source": "/Users/fosterapps/react-native/Led3/android/app/build/intermediates/exploded-aar/Led3/react-native-image-picker/unspecified/res/xml/provider_paths.xml"
+    },
+    {
+        "merged": "/Users/fosterapps/react-native/image-recognition/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/Users/fosterapps/react-native/image-recognition/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.42.3/res/xml/preferences.xml"
     }
 ]

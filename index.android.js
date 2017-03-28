@@ -42,7 +42,7 @@ export default class Led3 extends Component {
     }
     else {
       // Do something with the selected image
-this.setState({imageSource: response.uri.replace('file://', '')})
+      this.setState({imageSource: response.uri})
     }
   });
 }

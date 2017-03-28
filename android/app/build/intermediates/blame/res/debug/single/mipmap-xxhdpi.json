@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/Users/fosterapps/react-native/image-recognition/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/fosterapps/react-native/image-recognition/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
         "merged": "/Users/fosterapps/react-native/Led3/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
         "source": "/Users/fosterapps/react-native/Led3/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
     }

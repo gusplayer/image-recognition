@@ -3,6 +3,150 @@
 
     <item
         is-multidex="false"
+        jar="/Users/fosterapps/react-native/Led3/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="/Users/fosterapps/react-native/Led3/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-0.11.0_77716810c0180408989f76d29a0a9c45f743b6eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fosterapps/react-native/image-recognition/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/fosterapps/react-native/image-recognition/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_64f9cb22d1efbf664a0196f3c640bff4c4fcdbd6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fosterapps/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/Users/fosterapps/react-native/Led3/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1_884803d158b236a277ea30467d8446f467f47351.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fosterapps/react-native/image-recognition/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="/Users/fosterapps/react-native/image-recognition/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-0.11.0_48c084a2acd14926e1e3735a3e44442b7e5d1b2e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fosterapps/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/Users/fosterapps/react-native/Led3/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1_c59ee5bf3069c36d8ceafcf5ad71a2c0e4ed42c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fosterapps/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/fosterapps/react-native/Led3/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_6bc0eb630e44480eca933ca86ec45aa0ff48614a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fosterapps/react-native/image-recognition/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="/Users/fosterapps/react-native/image-recognition/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-0.11.0_0a28706030bf04cc004b535b300dfc04bd50ca6a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fosterapps/react-native/image-recognition/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/fosterapps/react-native/image-recognition/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_b4ae7059d229fcad4e2071222384da2aa8a0c7eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fosterapps/react-native/image-recognition/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/fosterapps/react-native/image-recognition/android/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.4.0_740ef7dbec4283f07493dbd2e5b9521004e527e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fosterapps/react-native/image-recognition/android/app/build/intermediates/exploded-aar/Led3/react-native-image-picker/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fbf66cc54d5d6cbd6cdda4f4cfaee5c615499c2">
+        <dex dex="/Users/fosterapps/react-native/image-recognition/android/app/build/intermediates/pre-dexed/debug/Led3-react-native-image-picker-unspecified_5c21aad575482217e150c705bbd2a001c9257a91.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fosterapps/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/fosterapps/react-native/Led3/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0_c1a8d5d11c421a70cf85836578b3d20cdb1d02c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fosterapps/react-native/image-recognition/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/fosterapps/react-native/image-recognition/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_2cbf7584847c1d383ba16a6858261a5f5689b2f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fosterapps/react-native/image-recognition/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.42.3/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="/Users/fosterapps/react-native/image-recognition/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5_46c5c95934d9e8fab6991992b85f4fb9b3dc1a6b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fosterapps/react-native/image-recognition/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/fosterapps/react-native/image-recognition/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_714dc5834de791f5fe47e143bf89115632fafe65.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fosterapps/react-native/Led3/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/fosterapps/react-native/Led3/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_d9c2ab48f69488003e8e6202a562165281ba1445.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fosterapps/react-native/image-recognition/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="/Users/fosterapps/react-native/image-recognition/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-0.11.0_8747063bc07c3a8286609efcfd90f77d9e95ce8d.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/fosterapps/react-native/Led3/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.11.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -21,15 +165,6 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/fosterapps/react-native/Led3/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.11.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
-        <dex dex="/Users/fosterapps/react-native/Led3/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-0.11.0_77716810c0180408989f76d29a0a9c45f743b6eb.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/Users/fosterapps/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
         jumboMode="false"
         optimize="true"
@@ -39,12 +174,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/fosterapps/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jar="/Users/fosterapps/react-native/image-recognition/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.11.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
-        <dex dex="/Users/fosterapps/react-native/Led3/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1_884803d158b236a277ea30467d8446f467f47351.jar" />
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="/Users/fosterapps/react-native/image-recognition/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-0.11.0_91dfac3fe62fd3f817ebe2ba6e1cd90702c9ebd6.jar" />
     </item>
     <item
         is-multidex="false"
@@ -75,24 +210,6 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/fosterapps/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="63994437f62bc861bc20c605d12962f7246116d1">
-        <dex dex="/Users/fosterapps/react-native/Led3/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1_c59ee5bf3069c36d8ceafcf5ad71a2c0e4ed42c9.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/fosterapps/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
-        <dex dex="/Users/fosterapps/react-native/Led3/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_6bc0eb630e44480eca933ca86ec45aa0ff48614a.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/Users/fosterapps/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
         jumboMode="false"
         optimize="true"
@@ -111,12 +228,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/fosterapps/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jar="/Users/fosterapps/react-native/image-recognition/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.11.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
-        <dex dex="/Users/fosterapps/react-native/Led3/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0_c1a8d5d11c421a70cf85836578b3d20cdb1d02c4.jar" />
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="/Users/fosterapps/react-native/image-recognition/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-0.11.0_ada9e5913b72288e4afb419b2786d4617f74d940.jar" />
     </item>
     <item
         is-multidex="false"
@@ -129,12 +246,30 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/fosterapps/react-native/image-recognition/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/fosterapps/react-native/image-recognition/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_2813dd9ee0512ae51288092bf5ae8b173d89648b.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/fosterapps/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="f162442a19fff13995fbd51ba414d9ee05579080">
         <dex dex="/Users/fosterapps/react-native/Led3/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_2137129dbf1030edb4e0030438ea2dae1e16aff4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fosterapps/react-native/image-recognition/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="/Users/fosterapps/react-native/image-recognition/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-0.11.0_4fcaf488be5917c7255a5f7c4ee984bcf7f2c318.jar" />
     </item>
     <item
         is-multidex="false"
@@ -147,21 +282,21 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/fosterapps/react-native/Led3/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
-        <dex dex="/Users/fosterapps/react-native/Led3/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_d9c2ab48f69488003e8e6202a562165281ba1445.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/Users/fosterapps/react-native/Led3/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
         <dex dex="/Users/fosterapps/react-native/Led3/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_5dacc21a0e720cb6c9f9ed3546681303b1f3f0d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fosterapps/react-native/image-recognition/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.42.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="962b06c207e808c0557ffd6163ac584025a96021">
+        <dex dex="/Users/fosterapps/react-native/image-recognition/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.42.3_60e1289701d1108185bcdf622872d637dcfe26f9.jar" />
     </item>
     <item
         is-multidex="false"
