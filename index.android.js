@@ -28,11 +28,32 @@ export default class Led3 extends Component {
 
   constructor() {
   super();
-  this.state = {imageSource:'https://community.clarifai.com/uploads/default/_emoji/clarifai.png'};
+  this.state = {
+    imageSource:'http://www.fosterapps.com/images/logo-foster2.png',
+    tags:'inicial'
+  };
 }
 
+  onPressButtonGET(){
+    fetch('http://brainmakers.net/pruebapp',{
+      'method':'POST',
+      headers: {
+      'Accept': 'application/json',
+      'Content-Type': 'application/json',
+      },
+      body: JSON.stringify({
+        imagen: 'desde reactnative',
+      })
+    })
+    .then((response)=>response.json())
+    .then((responseData)=>{
+             console.warn(responseData.contenido)
+         })
+   };
+
   selectImage(){
-  ImagePicker.showImagePicker(options, (response) => {
+  ImagePicker.showImagePicker(
+    options, (response) => {
     console.log('Response = ', response);
     if (response.didCancel) {
       console.log('User cancelled image picker');
@@ -43,9 +64,59 @@ export default class Led3 extends Component {
     else {
       // Do something with the selected image
       this.setState({imageSource: response.uri})
-    }
-  });
-}
+
+      console.warn('aqui')
+
+      let data = {
+      method: 'GET',
+      credentials: 'same-origin',
+      mode: 'same-origin',
+      body: JSON.stringify({
+      imagen: 'mi imagen react'
+      }),
+        headers: {
+        'Accept':       'application/json',
+        'Content-Type': 'application/json'
+        }
+      }
+
+                  console.warn(fetch('http://brainmakers.net/pruebapp2')
+                  .then((response) => response.json())
+                        .then((responseData) => {
+                          console.warn(responseJson)
+                        })
+                        .catch((error) => {
+                          console.warn(error);
+                        })
+                  )
+
+                    // let data = {
+                    // method: 'POST',
+                    // credentials: 'same-origin',
+                    // mode: 'same-origin',
+                    // body: JSON.stringify({
+                    // imagen: 'mi imagen react'
+                    // }),
+                    //   headers: {
+                    //   'Accept':       'application/json',
+                    //   'Content-Type': 'application/json'
+                    //   }
+                    // }
+                    // console.warn(
+                    // ()=>{
+                    // fetch('http://brainmakers.net/pruebapp', data)
+                    // .then(response => response.json())  // promise
+                    // console.warn(response)
+                    // // .then(json => dispatch(receiveAppos(json)))
+                    // // .then(data => data.imagen)
+                    // // return
+                    // }
+                    // )
+
+       }
+     }
+    );
+  }
 
   render() {
     return (
@@ -57,10 +128,18 @@ export default class Led3 extends Component {
           source={{uri: this.state.imageSource}}
           style={styles.image}
         />
+         <Text>TAG</Text>
+        <TouchableHighlight onPress={this.onPressButtonGET}>
+            <Text>{this.state.tags}</Text>
+        </TouchableHighlight>
       </View>
     );
   }
-}
+
+
+
+
+}//end class
 
 const styles = StyleSheet.create({
   container: {
