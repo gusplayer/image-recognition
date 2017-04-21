@@ -33,8 +33,8 @@ export default class Led3 extends Component {
   super();
   var source = null;
   this.state = {
-    imageSource:'http://icons.iconarchive.com/icons/graphicloads/100-flat/256/camera-icon.png',
-    tags:'inicial'
+    imageSource:'https://freeiconshop.com/wp-content/uploads/edd/camera-flat.png',
+    tags:'No has subido ninguna imagen'
    };
    this.onPressButtonGET = this.onPressButtonGET.bind(this);
   }
@@ -57,7 +57,7 @@ export default class Led3 extends Component {
       // You can also display the image using data:
       // let source = { uri: 'data:image/jpeg;base64,' + response.data };
       this.setState({imageSource: response.uri});
-      this.setState({tags: 'Imagen Actualizada'})
+      this.setState({tags: 'La imagen se subio correctamente'})
        }
      }
     );
@@ -82,24 +82,30 @@ export default class Led3 extends Component {
 
   render() {
     return (
+      <Image source={{uri: 'http://mobile-wallpapers.net/wp-content/uploads/2016/09/%D0%B0%D0%B1%D1%81%D1%82%D1%80%D0%B0%D0%BA%D1%82-7.jpg'}} style={styles.fondo}>
       <View style={styles.container}>
-        <TouchableHighlight onPress={this.selectImage.bind(this)}>
-          <Text>Select an image</Text>
-        </TouchableHighlight>
+
         <Image
           source={{uri: this.state.imageSource}}
           style={styles.image}
         />
-         <Text>{this.state.tags}</Text>
-        <TouchableHighlight onPress={this.onPressButtonGET} style={styles.buttonLogin}>
-            <Text style={styles.textBotonLogin}>Boton POST</Text>
+        <View style={styles.tags}>
+         <Text style={styles.textTags}>
+         {this.state.tags}
+         </Text>
+        </View>
+
+         <TouchableHighlight onPress={this.selectImage.bind(this)} style={styles.buttonLogin}>
+           <Text style={styles.textBotonLogin}>Sube una imagen</Text>
+         </TouchableHighlight>
+
+        <TouchableHighlight onPress={this.onPressButtonGET} style={styles.buttonLogin} >
+            <Text style={styles.textBotonLogin} >Analizar Imagen</Text>
         </TouchableHighlight>
       </View>
+      </Image>
     );
   }
-
-
-
 
 }//end class
 
@@ -107,9 +113,14 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     justifyContent: 'center',
-    alignItems: 'center',
-    backgroundColor: '#F5FCFF',
+    alignItems: 'center'
   },
+  fondo: {
+      flex: 1,
+      width: null,
+      height: 100,
+      resizeMode: 'cover',
+    },
   welcome: {
     fontSize: 20,
     textAlign: 'center',
@@ -121,13 +132,13 @@ const styles = StyleSheet.create({
     marginBottom: 5,
   },
   image: {
-    width: 200,
-    height:200
+    width: 300,
+    height:300
   },
   buttonLogin: {
     height: 48,
-    backgroundColor: "rgba(255,90,95,1)",
-    borderColor: "rgba(255,90,95,1)",
+    backgroundColor: "#1565c0",
+    borderColor: "#0d47a1",
     borderWidth: 1,
     borderRadius: 2,
     marginBottom: 10,
@@ -141,14 +152,26 @@ const styles = StyleSheet.create({
     shadowOpacity: 0.8,
     shadowRadius: 2,
     shadowOffset: {
-    height: 1,
-    width: 0,
-    flexDirection: 'row',
-    color: "#000000"
-    }
+        height: 1,
+        width: 0,
+        flexDirection: 'row'
+        }
     },
     textBotonLogin: {
-      color: "#000000"
+      color: '#e3f2fd'
+    },
+    textTags:{
+
+    },
+    tags:{
+      height: 48,
+      backgroundColor: "#b3e5fc",
+      alignSelf: 'stretch',
+      justifyContent: 'center',
+      alignItems: 'center',
+      padding: 0,
+      margin: 20,
+      marginTop: 10,
     }
 
 });
