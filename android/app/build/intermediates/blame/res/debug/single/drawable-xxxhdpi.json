@@ -116,6 +116,10 @@
         "source": "/Users/fosterapps/react-native/image-recognition/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-xxxhdpi/abc_btn_check_to_on_mtrl_015.png"
     },
     {
+        "merged": "/Users/fosterapps/react-native/image-recognition/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/node_modules_reactnative_libraries_customcomponents_navigationexperimental_assets_backicon.png",
+        "source": "/Users/fosterapps/react-native/image-recognition/android/app/src/main/res/drawable-xxxhdpi/node_modules_reactnative_libraries_customcomponents_navigationexperimental_assets_backicon.png"
+    },
+    {
         "merged": "/Users/fosterapps/react-native/Led3/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/abc_ic_ab_back_mtrl_am_alpha.png",
         "source": "/Users/fosterapps/react-native/Led3/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-xxxhdpi/abc_ic_ab_back_mtrl_am_alpha.png"
     },

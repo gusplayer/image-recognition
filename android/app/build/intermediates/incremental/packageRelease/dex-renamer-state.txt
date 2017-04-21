@@ -1,0 +1,4 @@
+#Fri Apr 21 14:23:38 COT 2017
+base.0=/Users/fosterapps/react-native/image-recognition/android/app/build/intermediates/transforms/dex/release/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/fosterapps/react-native/image-recognition/android/app/build/intermediates/transforms/dex/release/folders/1000/1f/main/classes.dex

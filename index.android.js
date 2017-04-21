@@ -21,7 +21,7 @@ var options = {
   storageOptions: {
     skipBackup: true,
   },
-  maxWidth: 580
+  maxWidth: 480
 };
 
 var resultado = null;
