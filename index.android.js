@@ -14,6 +14,8 @@ import {
   Image
 } from 'react-native';
 
+import Icon from 'react-native-vector-icons/EvilIcons';
+
 import ImagePicker from 'react-native-image-picker';
 
 var options = {
@@ -36,7 +38,7 @@ export default class Led3 extends Component {
     imageSource:'https://freeiconshop.com/wp-content/uploads/edd/camera-flat.png',
     tags:'No has subido ninguna imagen'
    };
-   this.onPressButtonGET = this.onPressButtonGET.bind(this);
+  this.onPressButtonGET = this.onPressButtonGET.bind(this);
   }
 
 
@@ -58,6 +60,7 @@ export default class Led3 extends Component {
       // let source = { uri: 'data:image/jpeg;base64,' + response.data };
       this.setState({imageSource: response.uri});
       this.setState({tags: 'La imagen se subio correctamente'})
+      this.onPressButtonGET();
        }
      }
     );
@@ -78,31 +81,32 @@ export default class Led3 extends Component {
     .then((responseData)=>
                 this.setState({tags: responseData.contenido})
         )
-   };
+   }
 
   render() {
     return (
       <Image source={{uri: 'http://mobile-wallpapers.net/wp-content/uploads/2016/09/%D0%B0%D0%B1%D1%81%D1%82%D1%80%D0%B0%D0%BA%D1%82-7.jpg'}} style={styles.fondo}>
-      <View style={styles.container}>
+        <View style={styles.container}>
 
-        <Image
-          source={{uri: this.state.imageSource}}
-          style={styles.image}
-        />
-        <View style={styles.tags}>
-         <Text style={styles.textTags}>
-         {this.state.tags}
-         </Text>
+            <Image
+              source={{uri: this.state.imageSource}}
+              style={styles.image}
+            />
+
+            <View style={styles.tags}>
+             <Text style={styles.textTags}>
+             {this.state.tags}
+             </Text>
+            </View>
+
+             <TouchableHighlight onPress={this.selectImage.bind(this)} style={styles.icons}>
+                  <Icon name="camera" size={85} color="blue" />
+             </TouchableHighlight>
+
+
+
+
         </View>
-
-         <TouchableHighlight onPress={this.selectImage.bind(this)} style={styles.buttonLogin}>
-           <Text style={styles.textBotonLogin}>Sube una imagen</Text>
-         </TouchableHighlight>
-
-        <TouchableHighlight onPress={this.onPressButtonGET} style={styles.buttonLogin} >
-            <Text style={styles.textBotonLogin} >Analizar Imagen</Text>
-        </TouchableHighlight>
-      </View>
       </Image>
     );
   }
@@ -132,6 +136,7 @@ const styles = StyleSheet.create({
     marginBottom: 5,
   },
   image: {
+    flex: 4,
     width: 300,
     height:300
   },
@@ -172,6 +177,12 @@ const styles = StyleSheet.create({
       padding: 0,
       margin: 20,
       marginTop: 10,
+    },
+    icons:{
+      height: 60,
+      flexDirection: 'row',
+      alignItems:'flex-end',
+      marginBottom:20,
     }
 
 });
