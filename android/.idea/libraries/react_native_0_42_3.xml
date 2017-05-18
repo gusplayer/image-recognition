@@ -3,6 +3,7 @@
     <ANNOTATIONS>
       <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.42.3/annotations.zip!/" />
       <root url="jar://$PROJECT_DIR$/../node_modules/react-native-image-picker/android/build/intermediates/exploded-aar/com.facebook.react/react-native/0.42.3/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../node_modules/react-native-vector-icons/android/build/intermediates/exploded-aar/com.facebook.react/react-native/0.42.3/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
       <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.42.3/res" />
@@ -11,6 +12,7 @@
     </CLASSES>
     <JAVADOC />
     <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../node_modules/react-native/android/com/facebook/react/react-native/0.42.3/react-native-0.42.3-sources.jar!/" />
       <root url="jar://$PROJECT_DIR$/../node_modules/react-native/android/com/facebook/react/react-native/0.42.3/react-native-0.42.3-sources.jar!/" />
       <root url="jar://$PROJECT_DIR$/../node_modules/react-native/android/com/facebook/react/react-native/0.42.3/react-native-0.42.3-sources.jar!/" />
     </SOURCES>
