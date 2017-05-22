@@ -40,10 +40,21 @@ export default class home extends Component {
   this.state = {
     imageSource:'https://freeiconshop.com/wp-content/uploads/edd/camera-flat.png',
     tags:'No has subido ninguna imagen',
-    tipo: 0
+    tipo: 4,
+    valor: 0,
    };
+
   this.onPressButtonGET = this.onPressButtonGET.bind(this);
+  this.handleFail = this.handleFail.bind(this);
+  this.handleCorrect = this.handleCorrect.bind(this);
   }
+
+  componentWillUpdate(nextProps, nextState) {
+   }
+
+   componentDidUpdate(prevProps, prevState) {
+   }
+
 
   selectImage(){
   ImagePicker.showImagePicker(
@@ -56,18 +67,20 @@ export default class home extends Component {
       console.log('ImagePicker Error: ', response.error);
     }
     else {
+      this.state.tipo = 3,
       // Do something with the selected image
       base64img= 'data:image/jpeg;base64,' + response.data;
       // You can also display the image using data:
       // let source = { uri: 'data:image/jpeg;base64,' + response.data };
       this.setState({imageSource: response.uri});
-      this.setState({tags: 'La imagen se subio correctamente'+this.state.tags})
       this.onPressButtonGET()
+
 
         }
      }
-    );
+    )
   }
+
 
   handleFail(){
     Actions.fail();
@@ -92,9 +105,9 @@ export default class home extends Component {
     .then((responseData)=>
                 this.setState({
                   tags: responseData.contenido,
-                  tipo: responseData.tipo})
+                  tipo: responseData.tipo_contenido,
+                  valor: responseData.valor})
         )
-
    }
 
   render() {
@@ -102,16 +115,23 @@ export default class home extends Component {
       <Image source={{uri: 'http://mobile-wallpapers.net/wp-content/uploads/2016/09/%D0%B0%D0%B1%D1%81%D1%82%D1%80%D0%B0%D0%BA%D1%82-7.jpg'}} style={styles.fondo}>
         <View style={styles.container}>
 
-            <Image
-              source={{uri: this.state.imageSource}}
-              style={styles.image}
-            />
+            <Image source={{uri: this.state.imageSource}}
+              style={styles.image}/>
 
-            <ActivityIndicator size="large" color="green" />
+            {this.state.tipo==4 &&
+              <View style={styles.tags}>
+               <Text style={styles.textTags}>Presiona el botón!</Text>
+              </View>
+            }
+
+            {this.state.tipo==1 &&  (this.handleCorrect())}
+            {this.state.tipo==2 &&  (this.handleCorrect())}
+            {this.state.tipo==3 &&  <ActivityIndicator size="large" color="green" />}
+            {this.state.tipo==0 &&  (this.handleFail())}
 
             <View style={styles.tags}>
              <Text style={styles.textTags}>
-             {this.state.tags}
+             {'valor '+this.state.valor+' contenido '+this.state.tags+' tipo '+this.state.tipo}
              </Text>
             </View>
 
@@ -119,14 +139,10 @@ export default class home extends Component {
                   <Icon name="camera" size={85} color="blue" />
              </TouchableHighlight>
 
-
-
-
         </View>
       </Image>
     );
   }
-
 }//end class
 
 const styles = StyleSheet.create({
