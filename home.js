@@ -124,18 +124,12 @@ export default class home extends Component {
               </View>
             }
 
-            {this.state.tipo==1 &&  (this.handleCorrect())}
-            {this.state.tipo==2 &&  (this.handleCorrect())}
+            {this.state.tipo==1 &&  this.handleCorrect()}
+            {this.state.tipo==2 &&  this.handleCorrect()}
             {this.state.tipo==3 &&  <ActivityIndicator size="large" color="green" />}
-            {this.state.tipo==0 &&  (this.handleFail())}
+            {this.state.tipo==0 &&  this.handleFail()}
 
-            <View style={styles.tags}>
-             <Text style={styles.textTags}>
-             {'valor '+this.state.valor+' contenido '+this.state.tags+' tipo '+this.state.tipo}
-             </Text>
-            </View>
-
-             <TouchableHighlight onPress={this.selectImage.bind(this)} style={styles.icons}>
+            <TouchableHighlight onPress={this.selectImage.bind(this)} style={styles.icons}>
                   <Icon name="camera" size={85} color="blue" />
              </TouchableHighlight>
 

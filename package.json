@@ -11,7 +11,8 @@
     "react-native": "0.42.3",
     "react-native-image-picker": "^0.26.2",
     "react-native-router-flux": "^3.38.0",
-    "react-native-vector-icons": "^4.1.1"
+    "react-native-vector-icons": "^4.1.1",
+    "react-native-youtube": "^1.0.0-alpha.4"
   },
   "devDependencies": {
     "babel-jest": "19.0.0",

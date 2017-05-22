@@ -255,6 +255,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/fosterapps/react-native/image-recognition/android/app/build/intermediates/exploded-aar/Led3/react-native-youtube/unspecified/jars/libs/YouTubeAndroidPlayerApi.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a62cbd1027677c96026b383de62307faa6a4da8f">
+        <dex dex="/Users/fosterapps/react-native/image-recognition/android/app/build/intermediates/pre-dexed/debug/YouTubeAndroidPlayerApi_6542667394a3667f85c8043a845d244734b6359e.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/fosterapps/react-native/image-recognition/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.42.3/jars/libs/infer-annotations-1.5.jar"
         jumboMode="false"
         optimize="true"
@@ -351,6 +360,15 @@
         revision="23.0.1"
         sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
         <dex dex="/Users/fosterapps/react-native/Led3/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_e270ffbe891ff49327f0a4fc0a8c26684cace679.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fosterapps/react-native/image-recognition/android/app/build/intermediates/exploded-aar/Led3/react-native-youtube/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d846e459cb0bd6b02f2e7a1877270950dd655249">
+        <dex dex="/Users/fosterapps/react-native/image-recognition/android/app/build/intermediates/pre-dexed/debug/Led3-react-native-youtube-unspecified_3bd25dca3e300e354f3d51f247941c506d93ac20.jar" />
     </item>
     <item
         is-multidex="false"

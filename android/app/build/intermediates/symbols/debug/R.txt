@@ -530,6 +530,7 @@ int id parentPanel 0x7f0d0034
 int id progress_circular 0x7f0d0006
 int id progress_horizontal 0x7f0d0007
 int id radio 0x7f0d0041
+int id relativelayout 0x7f0d006f
 int id rn_frame_file 0x7f0d0065
 int id rn_frame_method 0x7f0d0064
 int id rn_redbox_copy_button 0x7f0d006d
@@ -621,6 +622,7 @@ int layout select_dialog_item_material 0x7f040025
 int layout select_dialog_multichoice_material 0x7f040026
 int layout select_dialog_singlechoice_material 0x7f040027
 int layout support_simple_spinner_dropdown_item 0x7f040028
+int layout youtube_layout 0x7f040029
 int mipmap ic_launcher 0x7f030000
 int string abc_action_bar_home_description 0x7f070000
 int string abc_action_bar_home_description_format 0x7f070001

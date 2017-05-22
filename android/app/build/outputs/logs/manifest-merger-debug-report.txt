@@ -26,6 +26,7 @@ MERGED from [com.facebook.react:react-native:0.42.3] /Users/fosterapps/react-nat
 		ADDED from /Users/fosterapps/react-native/image-recognition/android/app/src/main/AndroidManifest.xml:7:22-75
 uses-sdk
 ADDED from /Users/fosterapps/react-native/image-recognition/android/app/src/main/AndroidManifest.xml:9:5-11:41
+MERGED from [Led3:react-native-youtube:unspecified] /Users/fosterapps/react-native/image-recognition/android/app/build/intermediates/exploded-aar/Led3/react-native-youtube/unspecified/AndroidManifest.xml:7:5-9:41
 MERGED from [Led3:react-native-vector-icons:unspecified] /Users/fosterapps/react-native/image-recognition/android/app/build/intermediates/exploded-aar/Led3/react-native-vector-icons/unspecified/AndroidManifest.xml:7:5-9:41
 MERGED from [Led3:react-native-image-picker:unspecified] /Users/fosterapps/react-native/image-recognition/android/app/build/intermediates/exploded-aar/Led3/react-native-image-picker/unspecified/AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.react:react-native:0.42.3] /Users/fosterapps/react-native/image-recognition/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.42.3/AndroidManifest.xml:7:5-9:41
