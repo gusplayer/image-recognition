@@ -12,6 +12,7 @@ import {
 import Home from './home';
 import Fail from './fail';
 import Succes from './succes';
+import Instrucciones from './instrucciones';
 
 import {Scene, Router} from 'react-native-router-flux';
 
@@ -23,6 +24,9 @@ export default class Led3 extends Component {
     return(
     <Router>
       <Scene key="root">
+
+        <Scene key="instrucciones" component={Home} title="Miràà" hideNavBar={true}/>
+        <Scene key="instrucciones" component={Instrucciones} title="Miràà" hideNavBar={true}/>
         <Scene key="home" component={Home} title="Miràà" hideNavBar={true}/>
         <Scene key="fail" component={Fail} title="Incorrecto"/>
         <Scene key="correcto" component={Succes} title="Contenido" hideNavBar={true} animation/>

@@ -38,7 +38,7 @@ export default class home extends Component {
   super();
   var source = null;
   this.state = {
-    imageSource:'https://freeiconshop.com/wp-content/uploads/edd/camera-flat.png',
+    imageSource:'https://s-media-cache-ak0.pinimg.com/originals/60/ee/69/60ee6916e93413b06e8b319a21521fc3.png',
     tags:'No has subido ninguna imagen',
     tipo: 4,
     valor: 0,
@@ -112,15 +112,14 @@ export default class home extends Component {
 
   render() {
     return (
-      <Image source={{uri: 'http://mobile-wallpapers.net/wp-content/uploads/2016/09/%D0%B0%D0%B1%D1%81%D1%82%D1%80%D0%B0%D0%BA%D1%82-7.jpg'}} style={styles.fondo}>
+
         <View style={styles.container}>
 
-            <Image source={{uri: this.state.imageSource}}
-              style={styles.image}/>
+            <Image source={{uri: this.state.imageSource}}  style={styles.image}/>
 
             {this.state.tipo==4 &&
               <View style={styles.tags}>
-               <Text style={styles.textTags}>Presiona el botón!</Text>
+               <Text style={styles.welcome}>Presiona el botón!</Text>
               </View>
             }
 
@@ -130,11 +129,11 @@ export default class home extends Component {
             {this.state.tipo==0 &&  this.handleFail()}
 
             <TouchableHighlight onPress={this.selectImage.bind(this)} style={styles.icons}>
-                  <Icon name="camera" size={85} color="blue" />
+                  <Icon name="camera" size={85} color="white" />
              </TouchableHighlight>
 
         </View>
-      </Image>
+
     );
   }
 }//end class
@@ -143,7 +142,8 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     justifyContent: 'center',
-    alignItems: 'center'
+    alignItems: 'center',
+    backgroundColor: '#00A99D'
   },
   fondo: {
       flex: 1,
@@ -155,6 +155,7 @@ const styles = StyleSheet.create({
     fontSize: 20,
     textAlign: 'center',
     margin: 10,
+    color: 'white'
   },
   instructions: {
     textAlign: 'center',
@@ -196,7 +197,6 @@ const styles = StyleSheet.create({
     },
     tags:{
       height: 48,
-      backgroundColor: "#b3e5fc",
       alignSelf: 'stretch',
       justifyContent: 'center',
       alignItems: 'center',
