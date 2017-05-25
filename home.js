@@ -56,8 +56,8 @@ export default class home extends Component {
    }
 
 
-  selectImage(){
-  ImagePicker.showImagePicker(
+  selectImageCamera(){
+  ImagePicker.launchCamera(
     options, (response) => {
     console.log('Response = ', response);
     if (response.didCancel) {
@@ -76,7 +76,32 @@ export default class home extends Component {
       this.onPressButtonGET()
 
 
-        }
+      }
+     }
+    )
+  }
+
+  selectImageGalery(){
+  ImagePicker.launchImageLibrary(
+    options, (response) => {
+    console.log('Response = ', response);
+    if (response.didCancel) {
+      console.log('User cancelled image picker');
+    }
+    else if (response.error) {
+      console.log('ImagePicker Error: ', response.error);
+    }
+    else {
+      this.state.tipo = 3,
+      // Do something with the selected image
+      base64img= 'data:image/jpeg;base64,' + response.data;
+      // You can also display the image using data:
+      // let source = { uri: 'data:image/jpeg;base64,' + response.data };
+      this.setState({imageSource: response.uri});
+      this.onPressButtonGET()
+
+
+      }
      }
     )
   }
@@ -87,7 +112,11 @@ export default class home extends Component {
   }
 
   handleCorrect(){
-    Actions.correcto();
+    Actions.correcto({video: 'aRRdSgmGYZ0'});
+  }
+
+  handleInfo(){
+    Actions.instrucciones();
   }
 
   onPressButtonGET(){
@@ -113,44 +142,74 @@ export default class home extends Component {
   render() {
     return (
 
+      <View style={{flex:1}}>
         <View style={styles.container}>
 
-            <Image source={{uri: this.state.imageSource}}  style={styles.image}/>
+
+
 
             {this.state.tipo==4 &&
-              <View style={styles.tags}>
-               <Text style={styles.welcome}>Presiona el botón!</Text>
+              <View >
+               <Text style={styles.welcome}></Text>
               </View>
             }
-
+            {this.state.tipo==0 &&  this.handleFail()}
+            {this.state.tipo==0 &&  <Image source={{uri: this.state.imageSource}}  style={styles.image}/>}
             {this.state.tipo==1 &&  this.handleCorrect()}
             {this.state.tipo==2 &&  this.handleCorrect()}
+            {this.state.tipo==1 &&  <Image source={{uri: this.state.imageSource}}  style={styles.image}/>}
+            {this.state.tipo==2 &&  <Image source={{uri: this.state.imageSource}}  style={styles.image}/>}
             {this.state.tipo==3 &&  <ActivityIndicator size="large" color="green" />}
-            {this.state.tipo==0 &&  this.handleFail()}
+            {this.state.tipo==4 &&
+               <Image style={{width: 280, height: 280}} source={require('./icono.png')}/>
+            }
 
-            <TouchableHighlight onPress={this.selectImage.bind(this)} style={styles.icons}>
-                  <Icon name="camera" size={85} color="white" />
-             </TouchableHighlight>
+            <View style={styles.tags}>
+            <Text style={{fontSize: 20}}>Miràà</Text>
+            </View>
 
         </View>
 
+        <View style={styles.bottom}>
+
+         <TouchableHighlight onPress={this.handleInfo.bind(this)} style={styles.icons}>
+              <Icon name="question" size={45} color="#2E3C9A" />
+          </TouchableHighlight>
+
+          <TouchableHighlight onPress={this.selectImageCamera.bind(this)} style={styles.icons}>
+               <Icon name="camera" size={85} color="#2E3C9A" />
+          </TouchableHighlight>
+
+          <TouchableHighlight onPress={this.selectImageGalery.bind(this)} style={styles.icons}>
+                <Icon name="arrow-up" size={45} color="#2E3C9A" />
+          </TouchableHighlight>
+
+        </View>
+      </View>
     );
   }
 }//end class
 
 const styles = StyleSheet.create({
-  container: {
-    flex: 1,
+  container:{
+    flex: 6,
     justifyContent: 'center',
     alignItems: 'center',
-    backgroundColor: '#00A99D'
+    backgroundColor: '#DCDCDC'
+  },
+  bottom:{
+    flex: 1,
+    flexDirection: 'row',
+    justifyContent: 'space-around',
+    alignItems: 'center',
+    backgroundColor: '#DCDCDC'
   },
   fondo: {
       flex: 1,
       width: null,
       height: 100,
       resizeMode: 'cover',
-    },
+  },
   welcome: {
     fontSize: 20,
     textAlign: 'center',
@@ -163,32 +222,12 @@ const styles = StyleSheet.create({
     marginBottom: 5,
   },
   image: {
-    flex: 4,
+    flex: 8,
     width: 300,
-    height:300
+    height:300,
+    marginTop: 10
   },
-  buttonLogin: {
-    height: 48,
-    backgroundColor: "#1565c0",
-    borderColor: "#0d47a1",
-    borderWidth: 1,
-    borderRadius: 2,
-    marginBottom: 10,
-    alignSelf: 'stretch',
-    justifyContent: 'center',
-    alignItems: 'center',
-    padding: 0,
-    margin: 20,
-    marginTop: 0,
-    shadowColor: "#000000",
-    shadowOpacity: 0.8,
-    shadowRadius: 2,
-    shadowOffset: {
-        height: 1,
-        width: 0,
-        flexDirection: 'row'
-        }
-    },
+
     textBotonLogin: {
       color: '#e3f2fd'
     },
@@ -196,19 +235,16 @@ const styles = StyleSheet.create({
 
     },
     tags:{
-      height: 48,
-      alignSelf: 'stretch',
+
+      width: 300,
+      height: 40,
+      flex: 1,
       justifyContent: 'center',
       alignItems: 'center',
       padding: 0,
-      margin: 20,
-      marginTop: 10,
+      margin: 10,
+      marginTop: 5,
     },
-    icons:{
-      height: 60,
-      flexDirection: 'row',
-      alignItems:'flex-end',
-      marginBottom:20,
-    }
+
 
 });

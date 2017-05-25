@@ -32,6 +32,10 @@
         "source": "/Users/fosterapps/react-native/image-recognition/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_action_mode_bar.xml"
     },
     {
+        "merged": "/Users/fosterapps/react-native/image-recognition/android/app/build/intermediates/res/merged/release/layout/youtube_layout.xml",
+        "source": "/Users/fosterapps/react-native/image-recognition/android/app/build/intermediates/exploded-aar/Led3/react-native-youtube/unspecified/res/layout/youtube_layout.xml"
+    },
+    {
         "merged": "/Users/fosterapps/react-native/image-recognition/android/app/build/intermediates/res/merged/release/layout/abc_action_bar_view_list_nav_layout.xml",
         "source": "/Users/fosterapps/react-native/image-recognition/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_action_bar_view_list_nav_layout.xml"
     },

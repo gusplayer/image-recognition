@@ -25,7 +25,7 @@ export default class Led3 extends Component {
     <Router>
       <Scene key="root">
 
-        <Scene key="instrucciones" component={Home} title="Miràà" hideNavBar={true}/>
+        <Scene key="home" component={Home} title="Miràà" hideNavBar={true}/>
         <Scene key="instrucciones" component={Instrucciones} title="Miràà" hideNavBar={true}/>
         <Scene key="home" component={Home} title="Miràà" hideNavBar={true}/>
         <Scene key="fail" component={Fail} title="Incorrecto"/>

@@ -462,8 +462,14 @@ int drawable abc_textfield_default_mtrl_alpha 0x7f02003a
 int drawable abc_textfield_search_activated_mtrl_alpha 0x7f02003b
 int drawable abc_textfield_search_default_mtrl_alpha 0x7f02003c
 int drawable abc_textfield_search_material 0x7f02003d
-int drawable node_modules_reactnative_libraries_customcomponents_navigationexperimental_assets_backicon 0x7f02003e
-int drawable notification_template_icon_bg 0x7f02003f
+int drawable fallo 0x7f02003e
+int drawable icono 0x7f02003f
+int drawable instruc 0x7f020040
+int drawable node_modules_reactnative_libraries_customcomponents_navigationexperimental_assets_backicon 0x7f020041
+int drawable node_modules_reactnativeexperimentalnavigation_assets_back 0x7f020042
+int drawable node_modules_reactnativerouterflux_src_back_chevron 0x7f020043
+int drawable node_modules_reactnativerouterflux_src_menu_burger 0x7f020044
+int drawable notification_template_icon_bg 0x7f020045
 int id action0 0x7f0d0057
 int id action_bar 0x7f0d0047
 int id action_bar_activity_content 0x7f0d0000
@@ -530,6 +536,7 @@ int id parentPanel 0x7f0d0034
 int id progress_circular 0x7f0d0006
 int id progress_horizontal 0x7f0d0007
 int id radio 0x7f0d0041
+int id relativelayout 0x7f0d006f
 int id rn_frame_file 0x7f0d0065
 int id rn_frame_method 0x7f0d0064
 int id rn_redbox_copy_button 0x7f0d006d
@@ -621,6 +628,7 @@ int layout select_dialog_item_material 0x7f040025
 int layout select_dialog_multichoice_material 0x7f040026
 int layout select_dialog_singlechoice_material 0x7f040027
 int layout support_simple_spinner_dropdown_item 0x7f040028
+int layout youtube_layout 0x7f040029
 int mipmap ic_launcher 0x7f030000
 int string abc_action_bar_home_description 0x7f070000
 int string abc_action_bar_home_description_format 0x7f070001

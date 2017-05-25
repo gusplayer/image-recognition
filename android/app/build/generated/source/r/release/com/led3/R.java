@@ -1841,8 +1841,14 @@ containing a value of this type.
         public static final int abc_textfield_search_activated_mtrl_alpha=0x7f02003b;
         public static final int abc_textfield_search_default_mtrl_alpha=0x7f02003c;
         public static final int abc_textfield_search_material=0x7f02003d;
-        public static final int node_modules_reactnative_libraries_customcomponents_navigationexperimental_assets_backicon=0x7f02003e;
-        public static final int notification_template_icon_bg=0x7f02003f;
+        public static final int fallo=0x7f02003e;
+        public static final int icono=0x7f02003f;
+        public static final int instruc=0x7f020040;
+        public static final int node_modules_reactnative_libraries_customcomponents_navigationexperimental_assets_backicon=0x7f020041;
+        public static final int node_modules_reactnativeexperimentalnavigation_assets_back=0x7f020042;
+        public static final int node_modules_reactnativerouterflux_src_back_chevron=0x7f020043;
+        public static final int node_modules_reactnativerouterflux_src_menu_burger=0x7f020044;
+        public static final int notification_template_icon_bg=0x7f020045;
     }
     public static final class id {
         public static final int action0=0x7f0d0057;
@@ -1911,6 +1917,7 @@ containing a value of this type.
         public static final int progress_circular=0x7f0d0006;
         public static final int progress_horizontal=0x7f0d0007;
         public static final int radio=0x7f0d0041;
+        public static final int relativelayout=0x7f0d006f;
         public static final int rn_frame_file=0x7f0d0065;
         public static final int rn_frame_method=0x7f0d0064;
         public static final int rn_redbox_copy_button=0x7f0d006d;
@@ -2006,6 +2013,7 @@ containing a value of this type.
         public static final int select_dialog_multichoice_material=0x7f040026;
         public static final int select_dialog_singlechoice_material=0x7f040027;
         public static final int support_simple_spinner_dropdown_item=0x7f040028;
+        public static final int youtube_layout=0x7f040029;
     }
     public static final class mipmap {
         public static final int ic_launcher=0x7f030000;

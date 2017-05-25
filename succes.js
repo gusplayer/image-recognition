@@ -11,6 +11,17 @@ import YouTube from 'react-native-youtube';
 
 export default class fail extends Component {
 
+  constructor(props) {
+  super(props);
+  var source = null;
+  this.state = {
+    imageSource:'https://s-media-cache-ak0.pinimg.com/originals/60/ee/69/60ee6916e93413b06e8b319a21521fc3.png',
+    tags:'No has subido ninguna imagen',
+    tipo: 4,
+    valor: 0,
+   };
+ }
+
   render(){
     return(
       <View style={styles.container}>
@@ -22,7 +33,7 @@ export default class fail extends Component {
                   this._youTubePlayer = component;
                 }}
                 apiKey="AIzaSyAaiBfx9dGB2HEqO2n96xHFkinf204wzng"
-                videoId="aRRdSgmGYZ0"   // A playlist's ID, overridden by `videoId`
+                videoId={this.props.video}   // A playlist's ID, overridden by `videoId`
                 play={true}                      // control playback of video with true/false
                 fullscreen={true}               // control whether the video should play in fullscreen or inline
                 loop={true}                     // control whether the video should loop when ended
