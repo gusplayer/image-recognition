@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.led3.test">
+    package="com.miraa.test">
 
     <uses-sdk android:minSdkVersion="16" android:targetSdkVersion="22" />
 
@@ -9,8 +9,8 @@
     </application>
 
     <instrumentation android:name="android.test.InstrumentationTestRunner"
-                     android:targetPackage="com.led3"
+                     android:targetPackage="com.miraa"
                      android:handleProfiling="false"
                      android:functionalTest="false"
-                     android:label="Tests for com.led3"/>
+                     android:label="Tests for com.miraa"/>
 </manifest>

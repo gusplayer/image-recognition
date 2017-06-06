@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/fosterapps/react-native/image-recognition/android/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-port/values-port.xml",
+        "outputFile": "/Users/gustavomoreno/Documents/react-native/Miraa/android/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-port/values-port.xml",
         "map": [
             {
                 "to": {
@@ -11,13 +11,13 @@
                     "endOffset": 106
                 },
                 "from": {
-                    "file": "/Users/fosterapps/react-native/image-recognition/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-port/values-port.xml",
+                    "file": "/Users/gustavomoreno/Documents/react-native/Miraa/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/values-port/values-port.xml",
                     "position": {
-                        "startLine": 4,
+                        "startLine": 2,
                         "startColumn": 4,
-                        "startOffset": 280,
+                        "startOffset": 55,
                         "endColumn": 55,
-                        "endOffset": 331
+                        "endOffset": 106
                     }
                 }
             }

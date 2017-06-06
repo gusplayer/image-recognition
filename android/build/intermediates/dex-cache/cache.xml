@@ -3,390 +3,372 @@
 
     <item
         is-multidex="false"
-        jar="/Users/fosterapps/react-native/Led3/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.11.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
-        <dex dex="/Users/fosterapps/react-native/Led3/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-0.11.0_787f206234ce9595a71bb4626835564c378b70cd.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/fosterapps/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="6975da39a7040257bd51d21a231b76c915872d38">
-        <dex dex="/Users/fosterapps/react-native/Led3/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_b8aabd1c2aa43c77cddec7b19f70a22816b33d0e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/fosterapps/react-native/Led3/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.11.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
-        <dex dex="/Users/fosterapps/react-native/Led3/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-0.11.0_77716810c0180408989f76d29a0a9c45f743b6eb.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/fosterapps/react-native/image-recognition/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
-        <dex dex="/Users/fosterapps/react-native/image-recognition/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_64f9cb22d1efbf664a0196f3c640bff4c4fcdbd6.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/fosterapps/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
-        <dex dex="/Users/fosterapps/react-native/Led3/android/app/build/intermediates/pre-dexed/debug/library-2.4.0_c962b87e22ed10887e92d37258845bc1a717ba7c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/fosterapps/react-native/image-recognition/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.11.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
-        <dex dex="/Users/fosterapps/react-native/image-recognition/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-0.11.0_91dfac3fe62fd3f817ebe2ba6e1cd90702c9ebd6.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/fosterapps/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
-        <dex dex="/Users/fosterapps/react-native/Led3/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1_884803d158b236a277ea30467d8446f467f47351.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/fosterapps/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
-        <dex dex="/Users/fosterapps/react-native/Led3/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1_7cc2782d810e0b5c951aa2f71f074ac883a81c16.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/fosterapps/react-native/Led3/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.11.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
-        <dex dex="/Users/fosterapps/react-native/Led3/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-0.11.0_26301bdb07311b7483cb223705eecde6250e77b3.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/fosterapps/react-native/image-recognition/android/app/build/intermediates/exploded-aar/Led3/react-native-vector-icons/unspecified/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="b319ff9834bbeb9be394687614eb86892699ea14">
-        <dex dex="/Users/fosterapps/react-native/image-recognition/android/app/build/intermediates/pre-dexed/debug/Led3-react-native-vector-icons-unspecified_6b6d9875f04d68ecaa7862547739a2912fa94bf7.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/fosterapps/react-native/image-recognition/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.11.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
-        <dex dex="/Users/fosterapps/react-native/image-recognition/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-0.11.0_48c084a2acd14926e1e3735a3e44442b7e5d1b2e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/fosterapps/react-native/Led3/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
-        <dex dex="/Users/fosterapps/react-native/Led3/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-0.11.0_f1596064d9341820a9b0a472d76725832540b6ac.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/fosterapps/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="63994437f62bc861bc20c605d12962f7246116d1">
-        <dex dex="/Users/fosterapps/react-native/Led3/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1_c59ee5bf3069c36d8ceafcf5ad71a2c0e4ed42c9.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/fosterapps/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
-        <dex dex="/Users/fosterapps/react-native/Led3/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_6bc0eb630e44480eca933ca86ec45aa0ff48614a.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/fosterapps/react-native/image-recognition/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/0.11.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
-        <dex dex="/Users/fosterapps/react-native/image-recognition/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-0.11.0_0a28706030bf04cc004b535b300dfc04bd50ca6a.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/fosterapps/react-native/image-recognition/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
-        <dex dex="/Users/fosterapps/react-native/image-recognition/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_b4ae7059d229fcad4e2071222384da2aa8a0c7eb.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/fosterapps/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
-        <dex dex="/Users/fosterapps/react-native/Led3/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_b278dc9c973756f4c79be54bf5f03587636bbd9f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/fosterapps/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jar="/Users/gustavomoreno/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
-        <dex dex="/Users/fosterapps/react-native/Led3/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_738d1d2d8da2cd985fe87afa56b21392b3bbc833.jar" />
+        <dex dex="/Users/gustavomoreno/Documents/react-native/Miraa/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_c26d8109f923cfb0a275f0fae8bcd4668d550812.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/fosterapps/react-native/image-recognition/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.11.0/jars/classes.jar"
+        jar="/Users/gustavomoreno/Documents/react-native/Miraa/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
-        <dex dex="/Users/fosterapps/react-native/image-recognition/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-0.11.0_ada9e5913b72288e4afb419b2786d4617f74d940.jar" />
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/Users/gustavomoreno/Documents/react-native/Miraa/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.0_9c34899b0c1d178d33f0d7f02706dd64753e4e71.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/fosterapps/react-native/image-recognition/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jar="/Users/gustavomoreno/Documents/react-native/Miraa/android/app/build/intermediates/exploded-aar/Miraa/react-native-vector-icons/unspecified/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
-        <dex dex="/Users/fosterapps/react-native/image-recognition/android/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.4.0_740ef7dbec4283f07493dbd2e5b9521004e527e4.jar" />
+        sha1="b319ff9834bbeb9be394687614eb86892699ea14">
+        <dex dex="/Users/gustavomoreno/Documents/react-native/Miraa/android/app/build/intermediates/pre-dexed/debug/Miraa-react-native-vector-icons-unspecified_55a34f9e365c275ada0658d4fd465284dcc885fe.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/fosterapps/react-native/image-recognition/android/app/build/intermediates/exploded-aar/Led3/react-native-image-picker/unspecified/jars/classes.jar"
+        jar="/Users/gustavomoreno/Documents/react-native/Miraa/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.2/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="185debb713f05e6ae262b4167d7645dce64ca4cb">
-        <dex dex="/Users/fosterapps/react-native/image-recognition/android/app/build/intermediates/pre-dexed/debug/Led3-react-native-image-picker-unspecified_5c21aad575482217e150c705bbd2a001c9257a91.jar" />
+        sha1="af9665a44df26b4098e24c934c1109507845ef5e">
+        <dex dex="/Users/gustavomoreno/Documents/react-native/Miraa/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.44.2_a5bbc9144a7053ed0860c1a8b1802da0cf7548a1.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/fosterapps/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jar="/Users/gustavomoreno/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/gustavomoreno/Documents/react-native/Miraa/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_e9076e0466f62c872294320cd68951ed76a1a3fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gustavomoreno/Documents/react-native/Miraa/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Users/gustavomoreno/Documents/react-native/Miraa/android/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_35ecf13135a37c3a6f612ed15295bfebac04a775.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gustavomoreno/Documents/react-native/Miraa/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Users/gustavomoreno/Documents/react-native/Miraa/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.0_8fce9ab4f034453d69a4775e2bbb4e64e6da04ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gustavomoreno/Documents/react-native/Miraa/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Users/gustavomoreno/Documents/react-native/Miraa/android/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_f66d16ae9d46907cef9916b0c69627ee0b38d4a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gustavomoreno/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
-        <dex dex="/Users/fosterapps/react-native/Led3/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0_c1a8d5d11c421a70cf85836578b3d20cdb1d02c4.jar" />
+        <dex dex="/Users/gustavomoreno/Documents/react-native/Miraa/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0_cb4a63236a1fc01f0f76e1b5239107b2ea225fdd.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/fosterapps/react-native/Led3/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.11.0/jars/classes.jar"
+        jar="/Users/gustavomoreno/Documents/react-native/Miraa/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
-        <dex dex="/Users/fosterapps/react-native/Led3/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-0.11.0_5a09539e07c969dc519451e26daf531d6357d073.jar" />
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/gustavomoreno/Documents/react-native/Miraa/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_b8d8de7ceff6fd1096ff2b2789453d0b3aba5985.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/fosterapps/react-native/image-recognition/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jar="/Users/gustavomoreno/Documents/react-native/Miraa/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
-        <dex dex="/Users/fosterapps/react-native/image-recognition/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_2813dd9ee0512ae51288092bf5ae8b173d89648b.jar" />
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/Users/gustavomoreno/Documents/react-native/Miraa/android/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_2d4c199d1601180e6078eb68b21ed37cd3fb52b7.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/fosterapps/react-native/image-recognition/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
-        <dex dex="/Users/fosterapps/react-native/image-recognition/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_2cbf7584847c1d383ba16a6858261a5f5689b2f1.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/fosterapps/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jar="/Users/gustavomoreno/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="f162442a19fff13995fbd51ba414d9ee05579080">
-        <dex dex="/Users/fosterapps/react-native/Led3/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_2137129dbf1030edb4e0030438ea2dae1e16aff4.jar" />
+        <dex dex="/Users/gustavomoreno/Documents/react-native/Miraa/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_970b846c0ba7820c7cf298fc291e26724f0ea71b.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/fosterapps/react-native/image-recognition/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/jars/classes.jar"
+        jar="/Users/gustavomoreno/Documents/react-native/Miraa/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.0.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
-        <dex dex="/Users/fosterapps/react-native/image-recognition/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-0.11.0_4fcaf488be5917c7255a5f7c4ee984bcf7f2c318.jar" />
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="/Users/gustavomoreno/Documents/react-native/Miraa/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.0.1_e3127d8f786caaae46f7af4eb925c35606780b64.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/fosterapps/react-native/Led3/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jar="/Users/gustavomoreno/Documents/react-native/Miraa/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
-        <dex dex="/Users/fosterapps/react-native/Led3/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_78ef565588228e80e1e55d35900951e13ceffcac.jar" />
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/Users/gustavomoreno/Documents/react-native/Miraa/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.0_c4fbf4c3eecb8bef92274923ffa6c9fa1eba3442.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/fosterapps/react-native/image-recognition/android/app/build/intermediates/exploded-aar/Led3/react-native-youtube/unspecified/jars/libs/YouTubeAndroidPlayerApi.jar"
+        jar="/Users/gustavomoreno/Documents/react-native/Miraa/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="a62cbd1027677c96026b383de62307faa6a4da8f">
-        <dex dex="/Users/fosterapps/react-native/image-recognition/android/app/build/intermediates/pre-dexed/debug/YouTubeAndroidPlayerApi_6542667394a3667f85c8043a845d244734b6359e.jar" />
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/Users/gustavomoreno/Documents/react-native/Miraa/android/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_c3a6b1d7e5c9c1d777ea4e16b116a9fde39246ef.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/fosterapps/react-native/image-recognition/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.42.3/jars/libs/infer-annotations-1.5.jar"
+        jar="/Users/gustavomoreno/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
-        <dex dex="/Users/fosterapps/react-native/image-recognition/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5_46c5c95934d9e8fab6991992b85f4fb9b3dc1a6b.jar" />
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/gustavomoreno/Documents/react-native/Miraa/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1_11bdfb8afd05c64f254f68b5668fb02d5e0bab4b.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/fosterapps/react-native/image-recognition/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jar="/Users/gustavomoreno/Documents/react-native/Miraa/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.0.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
-        <dex dex="/Users/fosterapps/react-native/image-recognition/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_714dc5834de791f5fe47e143bf89115632fafe65.jar" />
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="/Users/gustavomoreno/Documents/react-native/Miraa/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.0.1_72d1ac24b2c755e99250dcf54bef356ea199038b.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/fosterapps/react-native/Led3/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jar="/Users/gustavomoreno/Documents/react-native/Miraa/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.0.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
-        <dex dex="/Users/fosterapps/react-native/Led3/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_d9c2ab48f69488003e8e6202a562165281ba1445.jar" />
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="/Users/gustavomoreno/Documents/react-native/Miraa/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.0.1_4fdb90ee91411e507ec44dc158e83bf302b9ec42.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/fosterapps/react-native/Led3/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jar="/Users/gustavomoreno/Documents/react-native/Miraa/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.0.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
-        <dex dex="/Users/fosterapps/react-native/Led3/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_5dacc21a0e720cb6c9f9ed3546681303b1f3f0d6.jar" />
+        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
+        <dex dex="/Users/gustavomoreno/Documents/react-native/Miraa/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.0.1_8b4b13ac56974afcd5dfcb95bcc09ee49a0fa9c6.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/fosterapps/react-native/image-recognition/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.42.3/jars/classes.jar"
+        jar="/Users/gustavomoreno/Documents/react-native/Miraa/android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="962b06c207e808c0557ffd6163ac584025a96021">
-        <dex dex="/Users/fosterapps/react-native/image-recognition/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.42.3_60e1289701d1108185bcdf622872d637dcfe26f9.jar" />
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Users/gustavomoreno/Documents/react-native/Miraa/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.0_30b0c7de4baaf75861d00a11c970ffa5c4ffc15b.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/fosterapps/react-native/Led3/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.42.3/jars/libs/infer-annotations-1.5.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
-        <dex dex="/Users/fosterapps/react-native/Led3/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5_2d6ae3c352eadf0341b24f245c2e4e7b11d44ede.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/fosterapps/react-native/Led3/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
-        <dex dex="/Users/fosterapps/react-native/Led3/android/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.4.0_73a793f8b1472fa6bb45efd3f48512f1295a9f5b.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/fosterapps/react-native/Led3/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.42.3/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="962b06c207e808c0557ffd6163ac584025a96021">
-        <dex dex="/Users/fosterapps/react-native/Led3/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.42.3_1b697632c5d0117969300ab8d3ca8f0baaad294c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/fosterapps/react-native/image-recognition/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.11.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
-        <dex dex="/Users/fosterapps/react-native/image-recognition/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-0.11.0_8747063bc07c3a8286609efcfd90f77d9e95ce8d.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/fosterapps/react-native/Led3/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
-        <dex dex="/Users/fosterapps/react-native/Led3/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_fdbf05fd960a7e9b0ffefde44050eca49a504e50.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/fosterapps/react-native/Led3/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
-        <dex dex="/Users/fosterapps/react-native/Led3/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_e270ffbe891ff49327f0a4fc0a8c26684cace679.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/fosterapps/react-native/image-recognition/android/app/build/intermediates/exploded-aar/Led3/react-native-youtube/unspecified/jars/classes.jar"
+        jar="/Users/gustavomoreno/Documents/react-native/Miraa/android/app/build/intermediates/exploded-aar/Miraa/react-native-youtube/unspecified/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="d846e459cb0bd6b02f2e7a1877270950dd655249">
-        <dex dex="/Users/fosterapps/react-native/image-recognition/android/app/build/intermediates/pre-dexed/debug/Led3-react-native-youtube-unspecified_3bd25dca3e300e354f3d51f247941c506d93ac20.jar" />
+        <dex dex="/Users/gustavomoreno/Documents/react-native/Miraa/android/app/build/intermediates/pre-dexed/debug/Miraa-react-native-youtube-unspecified_855df4996c31ce5fb9036a9f987a8ea2428848c8.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/fosterapps/react-native/Led3/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/0.11.0/jars/classes.jar"
+        jar="/Users/gustavomoreno/Documents/react-native/Miraa/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
-        <dex dex="/Users/fosterapps/react-native/Led3/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-0.11.0_68308e802916d18cb2ab86e08acf64ae8375c1b9.jar" />
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Users/gustavomoreno/Documents/react-native/Miraa/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.0_d054cee6fe144ba9e17fc6cea8b9dd4e5903cd66.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/fosterapps/react-native/Led3/android/app/build/intermediates/exploded-aar/Led3/react-native-image-picker/unspecified/jars/classes.jar"
+        jar="/Users/gustavomoreno/Documents/react-native/Miraa/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="1fbf66cc54d5d6cbd6cdda4f4cfaee5c615499c2">
-        <dex dex="/Users/fosterapps/react-native/Led3/android/app/build/intermediates/pre-dexed/debug/Led3-react-native-image-picker-unspecified_d4c2b4d9561b2b9e0c8afc9442ec27ade83016a0.jar" />
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/Users/gustavomoreno/Documents/react-native/Miraa/android/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_2abb1e5e71228a09754a6930d6178108b648ed5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gustavomoreno/Documents/react-native/Miraa/android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/Users/gustavomoreno/Documents/react-native/Miraa/android/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.0_b23655995eea362b892056cd4f84a563f2c7f70b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gustavomoreno/Documents/react-native/Miraa/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="/Users/gustavomoreno/Documents/react-native/Miraa/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.0.1_9b86886fe94d2d0a412527aae6d3a05308871fa4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gustavomoreno/Documents/react-native/Miraa/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Users/gustavomoreno/Documents/react-native/Miraa/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.0_d4121dc1a38d376a48157e3e672b520895f800f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gustavomoreno/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/gustavomoreno/Documents/react-native/Miraa/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_7ba1a71e5b8c233f75a55228173f84d1ad31198f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gustavomoreno/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/Users/gustavomoreno/Documents/react-native/Miraa/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1_515a48d9bb1545db4bae861335c5dc688f8e619a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gustavomoreno/Documents/react-native/Miraa/android/app/build/intermediates/exploded-aar/Miraa/react-native-image-picker/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="185debb713f05e6ae262b4167d7645dce64ca4cb">
+        <dex dex="/Users/gustavomoreno/Documents/react-native/Miraa/android/app/build/intermediates/pre-dexed/debug/Miraa-react-native-image-picker-unspecified_e2c1f76f484a88224b05c17368a0f881473964ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gustavomoreno/Documents/react-native/Miraa/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/gustavomoreno/Documents/react-native/Miraa/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_e72da47b99019c7bafeaf7bc0e15d7e2ba95d992.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gustavomoreno/Documents/react-native/Miraa/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/Users/gustavomoreno/Documents/react-native/Miraa/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.0_44d3788ce193535d594c744354b0ba8d2bf87026.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gustavomoreno/Documents/react-native/Miraa/android/app/build/intermediates/exploded-aar/id.zelory/compressor/1.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3a724d5d031884220bae4a255f6d2763cd0ebdc4">
+        <dex dex="/Users/gustavomoreno/Documents/react-native/Miraa/android/app/build/intermediates/pre-dexed/debug/id.zelory-compressor-1.0.4_96f9ba84cf0090169a614ef4af871363bc1c9050.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gustavomoreno/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/Users/gustavomoreno/Documents/react-native/Miraa/android/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.0_cd5313e7e4b7e3054c9aa3d9a11f9e545bea0c09.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gustavomoreno/Documents/react-native/Miraa/android/app/build/intermediates/exploded-aar/com.yalantis/ucrop/2.2.0-native/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="24497dd7ccdf848dde14335011e715dcc1110275">
+        <dex dex="/Users/gustavomoreno/Documents/react-native/Miraa/android/app/build/intermediates/pre-dexed/debug/com.yalantis-ucrop-2.2.0-native_9dfec5eb35da3f0d3800533ec90a703d233eb5a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gustavomoreno/Documents/react-native/Miraa/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Users/gustavomoreno/Documents/react-native/Miraa/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.0_1151991991bb2a1e7c4edf7df8c55eba6b1f0133.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gustavomoreno/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/Users/gustavomoreno/Documents/react-native/Miraa/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1_d3a8644cf5a4d8aa6c0d6aaf0bf79127da8d369d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gustavomoreno/Documents/react-native/Miraa/android/app/build/intermediates/exploded-aar/Miraa/react-native-youtube/unspecified/jars/libs/YouTubeAndroidPlayerApi.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a62cbd1027677c96026b383de62307faa6a4da8f">
+        <dex dex="/Users/gustavomoreno/Documents/react-native/Miraa/android/app/build/intermediates/pre-dexed/debug/YouTubeAndroidPlayerApi_eef30f4b7bb5339691c438bc11b3c249f4ab49ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gustavomoreno/Documents/react-native/Miraa/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
+        <dex dex="/Users/gustavomoreno/Documents/react-native/Miraa/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.0.1_c3ed86dc62a766e6d26dacc0305f99e44f858dd8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gustavomoreno/Documents/react-native/Miraa/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.2/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="/Users/gustavomoreno/Documents/react-native/Miraa/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5_47d4160024c8de7ee8dcd9da88ce34e941321b03.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gustavomoreno/Documents/react-native/Miraa/android/app/build/intermediates/exploded-aar/Miraa/react-native-image-crop-picker/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8a3d8b3818bbac34545175fd18a2ed8f4a9f5519">
+        <dex dex="/Users/gustavomoreno/Documents/react-native/Miraa/android/app/build/intermediates/pre-dexed/debug/Miraa-react-native-image-crop-picker-unspecified_db298009da413b535f4067598a1074f8d7240867.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gustavomoreno/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.6/2586312cd2b8a511e4c6236736f5a039fc0f2273/rxjava-1.1.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2586312cd2b8a511e4c6236736f5a039fc0f2273">
+        <dex dex="/Users/gustavomoreno/Documents/react-native/Miraa/android/app/build/intermediates/pre-dexed/debug/rxjava-1.1.6_84d1c98f92c7d40f70fa23f583f334f6f61848ac.jar" />
     </item>
 
 </items>

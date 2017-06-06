@@ -12,7 +12,7 @@ import {
   View
 } from 'react-native';
 
-export default class Led3 extends Component {
+export default class Miraa extends Component {
   render() {
     return (
       <View style={styles.container}>
@@ -50,4 +50,4 @@ const styles = StyleSheet.create({
   },
 });
 
-AppRegistry.registerComponent('Led3', () => Led3);
+AppRegistry.registerComponent('Miraa', () => Miraa);

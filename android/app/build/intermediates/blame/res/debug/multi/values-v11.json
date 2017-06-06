@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/fosterapps/react-native/Led3/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml",
+        "outputFile": "/Users/gustavomoreno/Documents/react-native/Miraa/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml",
         "map": [
             {
                 "to": {
@@ -12,14 +12,14 @@
                     "endOffset": 469
                 },
                 "from": {
-                    "file": "/Users/fosterapps/react-native/Led3/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-v11/values-v11.xml",
+                    "file": "/Users/gustavomoreno/Documents/react-native/Miraa/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/values-v11/values-v11.xml",
                     "position": {
-                        "startLine": 4,
+                        "startLine": 2,
                         "startColumn": 4,
-                        "startOffset": 290,
-                        "endLine": 9,
+                        "startOffset": 55,
+                        "endLine": 7,
                         "endColumn": 12,
-                        "endOffset": 704
+                        "endOffset": 469
                     }
                 }
             },
@@ -33,14 +33,14 @@
                     "endOffset": 894
                 },
                 "from": {
-                    "file": "/Users/fosterapps/react-native/Led3/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-v11/values-v11.xml",
+                    "file": "/Users/gustavomoreno/Documents/react-native/Miraa/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/values-v11/values-v11.xml",
                     "position": {
-                        "startLine": 10,
+                        "startLine": 8,
                         "startColumn": 4,
-                        "startOffset": 709,
-                        "endLine": 15,
+                        "startOffset": 474,
+                        "endLine": 13,
                         "endColumn": 12,
-                        "endOffset": 1129
+                        "endOffset": 894
                     }
                 }
             },
@@ -54,14 +54,14 @@
                     "endOffset": 1322
                 },
                 "from": {
-                    "file": "/Users/fosterapps/react-native/Led3/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-v11/values-v11.xml",
+                    "file": "/Users/gustavomoreno/Documents/react-native/Miraa/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/values-v11/values-v11.xml",
                     "position": {
-                        "startLine": 16,
+                        "startLine": 14,
                         "startColumn": 4,
-                        "startOffset": 1134,
-                        "endLine": 21,
+                        "startOffset": 899,
+                        "endLine": 19,
                         "endColumn": 12,
-                        "endOffset": 1557
+                        "endOffset": 1322
                     }
                 }
             },
@@ -75,14 +75,14 @@
                     "endOffset": 1748
                 },
                 "from": {
-                    "file": "/Users/fosterapps/react-native/Led3/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-v11/values-v11.xml",
+                    "file": "/Users/gustavomoreno/Documents/react-native/Miraa/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/values-v11/values-v11.xml",
                     "position": {
-                        "startLine": 22,
+                        "startLine": 20,
                         "startColumn": 4,
-                        "startOffset": 1562,
-                        "endLine": 27,
+                        "startOffset": 1327,
+                        "endLine": 25,
                         "endColumn": 12,
-                        "endOffset": 1983
+                        "endOffset": 1748
                     }
                 }
             },
@@ -96,14 +96,14 @@
                     "endOffset": 2175
                 },
                 "from": {
-                    "file": "/Users/fosterapps/react-native/Led3/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-v11/values-v11.xml",
+                    "file": "/Users/gustavomoreno/Documents/react-native/Miraa/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/values-v11/values-v11.xml",
                     "position": {
-                        "startLine": 28,
+                        "startLine": 26,
                         "startColumn": 4,
-                        "startOffset": 1988,
-                        "endLine": 33,
+                        "startOffset": 1753,
+                        "endLine": 31,
                         "endColumn": 12,
-                        "endOffset": 2410
+                        "endOffset": 2175
                     }
                 }
             },
@@ -117,14 +117,14 @@
                     "endOffset": 2600
                 },
                 "from": {
-                    "file": "/Users/fosterapps/react-native/Led3/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-v11/values-v11.xml",
+                    "file": "/Users/gustavomoreno/Documents/react-native/Miraa/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/values-v11/values-v11.xml",
                     "position": {
-                        "startLine": 34,
+                        "startLine": 32,
                         "startColumn": 4,
-                        "startOffset": 2415,
-                        "endLine": 39,
+                        "startOffset": 2180,
+                        "endLine": 37,
                         "endColumn": 12,
-                        "endOffset": 2835
+                        "endOffset": 2600
                     }
                 }
             },
@@ -137,13 +137,13 @@
                     "endOffset": 2689
                 },
                 "from": {
-                    "file": "/Users/fosterapps/react-native/Led3/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-v11/values-v11.xml",
+                    "file": "/Users/gustavomoreno/Documents/react-native/Miraa/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/values-v11/values-v11.xml",
                     "position": {
-                        "startLine": 42,
+                        "startLine": 38,
                         "startColumn": 4,
-                        "startOffset": 3070,
+                        "startOffset": 2605,
                         "endColumn": 88,
-                        "endOffset": 3154
+                        "endOffset": 2689
                     }
                 }
             },
@@ -156,13 +156,13 @@
                     "endOffset": 2790
                 },
                 "from": {
-                    "file": "/Users/fosterapps/react-native/Led3/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-v11/values-v11.xml",
+                    "file": "/Users/gustavomoreno/Documents/react-native/Miraa/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/values-v11/values-v11.xml",
                     "position": {
-                        "startLine": 43,
+                        "startLine": 39,
                         "startColumn": 4,
-                        "startOffset": 3159,
+                        "startOffset": 2694,
                         "endColumn": 100,
-                        "endOffset": 3255
+                        "endOffset": 2790
                     }
                 }
             },
@@ -171,120 +171,80 @@
                     "startLine": 40,
                     "startColumn": 4,
                     "startOffset": 2795,
-                    "endLine": 44,
+                    "endColumn": 102,
+                    "endOffset": 2893
+                },
+                "from": {
+                    "file": "/Users/gustavomoreno/Documents/react-native/Miraa/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 2795,
+                        "endColumn": 102,
+                        "endOffset": 2893
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 2898,
+                    "endLine": 45,
                     "endColumn": 12,
-                    "endOffset": 3198
+                    "endOffset": 3301
                 },
                 "from": {
-                    "file": "/Users/fosterapps/react-native/Led3/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-v11/values-v11.xml",
+                    "file": "/Users/gustavomoreno/Documents/react-native/Miraa/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/values-v11/values-v11.xml",
                     "position": {
-                        "startLine": 44,
+                        "startLine": 41,
                         "startColumn": 4,
-                        "startOffset": 3260,
-                        "endLine": 48,
+                        "startOffset": 2898,
+                        "endLine": 45,
                         "endColumn": 12,
-                        "endOffset": 3663
+                        "endOffset": 3301
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 45,
+                    "startLine": 46,
                     "startColumn": 4,
-                    "startOffset": 3203,
-                    "endLine": 49,
+                    "startOffset": 3306,
+                    "endLine": 50,
                     "endColumn": 12,
-                    "endOffset": 3618
+                    "endOffset": 3721
                 },
                 "from": {
-                    "file": "/Users/fosterapps/react-native/Led3/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-v11/values-v11.xml",
+                    "file": "/Users/gustavomoreno/Documents/react-native/Miraa/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/values-v11/values-v11.xml",
                     "position": {
-                        "startLine": 49,
+                        "startLine": 46,
                         "startColumn": 4,
-                        "startOffset": 3668,
-                        "endLine": 53,
+                        "startOffset": 3306,
+                        "endLine": 50,
                         "endColumn": 12,
-                        "endOffset": 4083
+                        "endOffset": 3721
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 50,
+                    "startLine": 51,
                     "startColumn": 4,
-                    "startOffset": 3623,
-                    "endLine": 51,
+                    "startOffset": 3726,
+                    "endLine": 55,
                     "endColumn": 12,
-                    "endOffset": 3725
+                    "endOffset": 4143
                 },
                 "from": {
-                    "file": "/Users/fosterapps/react-native/Led3/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-v11/values-v11.xml",
+                    "file": "/Users/gustavomoreno/Documents/react-native/Miraa/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/values-v11/values-v11.xml",
                     "position": {
-                        "startLine": 56,
+                        "startLine": 51,
                         "startColumn": 4,
-                        "startOffset": 4318,
-                        "endLine": 57,
+                        "startOffset": 3726,
+                        "endLine": 55,
                         "endColumn": 12,
-                        "endOffset": 4420
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 52,
-                    "startColumn": 4,
-                    "startOffset": 3730,
-                    "endLine": 53,
-                    "endColumn": 12,
-                    "endOffset": 3854
-                },
-                "from": {
-                    "file": "/Users/fosterapps/react-native/Led3/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-v11/values-v11.xml",
-                    "position": {
-                        "startLine": 58,
-                        "startColumn": 4,
-                        "startOffset": 4425,
-                        "endLine": 59,
-                        "endColumn": 12,
-                        "endOffset": 4549
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 54,
-                    "startColumn": 4,
-                    "startOffset": 3859,
-                    "endColumn": 70,
-                    "endOffset": 3925
-                },
-                "from": {
-                    "file": "/Users/fosterapps/react-native/Led3/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-v11/values-v11.xml",
-                    "position": {
-                        "startLine": 62,
-                        "startColumn": 4,
-                        "startOffset": 4784,
-                        "endColumn": 70,
-                        "endOffset": 4850
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 55,
-                    "startColumn": 4,
-                    "startOffset": 3930,
-                    "endColumn": 82,
-                    "endOffset": 4008
-                },
-                "from": {
-                    "file": "/Users/fosterapps/react-native/Led3/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-v11/values-v11.xml",
-                    "position": {
-                        "startLine": 63,
-                        "startColumn": 4,
-                        "startOffset": 4855,
-                        "endColumn": 82,
-                        "endOffset": 4933
+                        "endOffset": 4143
                     }
                 }
             },
@@ -292,412 +252,140 @@
                 "to": {
                     "startLine": 56,
                     "startColumn": 4,
-                    "startOffset": 4013,
-                    "endLine": 106,
+                    "startOffset": 4148,
+                    "endLine": 57,
                     "endColumn": 12,
-                    "endOffset": 7716
+                    "endOffset": 4250
                 },
                 "from": {
-                    "file": "/Users/fosterapps/react-native/Led3/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-v11/values-v11.xml",
-                    "position": {
-                        "startLine": 64,
-                        "startColumn": 4,
-                        "startOffset": 4938,
-                        "endLine": 114,
-                        "endColumn": 12,
-                        "endOffset": 8641
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 107,
-                    "startColumn": 4,
-                    "startOffset": 7721,
-                    "endLine": 158,
-                    "endColumn": 12,
-                    "endOffset": 11564
-                },
-                "from": {
-                    "file": "/Users/fosterapps/react-native/Led3/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-v11/values-v11.xml",
-                    "position": {
-                        "startLine": 115,
-                        "startColumn": 4,
-                        "startOffset": 8646,
-                        "endLine": 166,
-                        "endColumn": 12,
-                        "endOffset": 12489
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 159,
-                    "startColumn": 4,
-                    "startOffset": 11569,
-                    "endColumn": 90,
-                    "endOffset": 11655
-                },
-                "from": {
-                    "file": "/Users/fosterapps/react-native/Led3/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-v11/values-v11.xml",
-                    "position": {
-                        "startLine": 169,
-                        "startColumn": 4,
-                        "startOffset": 12724,
-                        "endColumn": 90,
-                        "endOffset": 12810
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "/Users/fosterapps/react-native/image-recognition/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endLine": 7,
-                    "endColumn": 12,
-                    "endOffset": 469
-                },
-                "from": {
-                    "file": "/Users/fosterapps/react-native/image-recognition/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-v11/values-v11.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 290,
-                        "endLine": 9,
-                        "endColumn": 12,
-                        "endOffset": 704
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 8,
-                    "startColumn": 4,
-                    "startOffset": 474,
-                    "endLine": 13,
-                    "endColumn": 12,
-                    "endOffset": 894
-                },
-                "from": {
-                    "file": "/Users/fosterapps/react-native/image-recognition/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-v11/values-v11.xml",
-                    "position": {
-                        "startLine": 10,
-                        "startColumn": 4,
-                        "startOffset": 709,
-                        "endLine": 15,
-                        "endColumn": 12,
-                        "endOffset": 1129
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 14,
-                    "startColumn": 4,
-                    "startOffset": 899,
-                    "endLine": 19,
-                    "endColumn": 12,
-                    "endOffset": 1322
-                },
-                "from": {
-                    "file": "/Users/fosterapps/react-native/image-recognition/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-v11/values-v11.xml",
-                    "position": {
-                        "startLine": 16,
-                        "startColumn": 4,
-                        "startOffset": 1134,
-                        "endLine": 21,
-                        "endColumn": 12,
-                        "endOffset": 1557
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 20,
-                    "startColumn": 4,
-                    "startOffset": 1327,
-                    "endLine": 25,
-                    "endColumn": 12,
-                    "endOffset": 1748
-                },
-                "from": {
-                    "file": "/Users/fosterapps/react-native/image-recognition/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-v11/values-v11.xml",
-                    "position": {
-                        "startLine": 22,
-                        "startColumn": 4,
-                        "startOffset": 1562,
-                        "endLine": 27,
-                        "endColumn": 12,
-                        "endOffset": 1983
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 26,
-                    "startColumn": 4,
-                    "startOffset": 1753,
-                    "endLine": 31,
-                    "endColumn": 12,
-                    "endOffset": 2175
-                },
-                "from": {
-                    "file": "/Users/fosterapps/react-native/image-recognition/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-v11/values-v11.xml",
-                    "position": {
-                        "startLine": 28,
-                        "startColumn": 4,
-                        "startOffset": 1988,
-                        "endLine": 33,
-                        "endColumn": 12,
-                        "endOffset": 2410
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 32,
-                    "startColumn": 4,
-                    "startOffset": 2180,
-                    "endLine": 37,
-                    "endColumn": 12,
-                    "endOffset": 2600
-                },
-                "from": {
-                    "file": "/Users/fosterapps/react-native/image-recognition/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-v11/values-v11.xml",
-                    "position": {
-                        "startLine": 34,
-                        "startColumn": 4,
-                        "startOffset": 2415,
-                        "endLine": 39,
-                        "endColumn": 12,
-                        "endOffset": 2835
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 38,
-                    "startColumn": 4,
-                    "startOffset": 2605,
-                    "endColumn": 88,
-                    "endOffset": 2689
-                },
-                "from": {
-                    "file": "/Users/fosterapps/react-native/image-recognition/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-v11/values-v11.xml",
-                    "position": {
-                        "startLine": 42,
-                        "startColumn": 4,
-                        "startOffset": 3070,
-                        "endColumn": 88,
-                        "endOffset": 3154
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 39,
-                    "startColumn": 4,
-                    "startOffset": 2694,
-                    "endColumn": 100,
-                    "endOffset": 2790
-                },
-                "from": {
-                    "file": "/Users/fosterapps/react-native/image-recognition/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-v11/values-v11.xml",
-                    "position": {
-                        "startLine": 43,
-                        "startColumn": 4,
-                        "startOffset": 3159,
-                        "endColumn": 100,
-                        "endOffset": 3255
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 40,
-                    "startColumn": 4,
-                    "startOffset": 2795,
-                    "endLine": 44,
-                    "endColumn": 12,
-                    "endOffset": 3198
-                },
-                "from": {
-                    "file": "/Users/fosterapps/react-native/image-recognition/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-v11/values-v11.xml",
-                    "position": {
-                        "startLine": 44,
-                        "startColumn": 4,
-                        "startOffset": 3260,
-                        "endLine": 48,
-                        "endColumn": 12,
-                        "endOffset": 3663
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 45,
-                    "startColumn": 4,
-                    "startOffset": 3203,
-                    "endLine": 49,
-                    "endColumn": 12,
-                    "endOffset": 3618
-                },
-                "from": {
-                    "file": "/Users/fosterapps/react-native/image-recognition/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-v11/values-v11.xml",
-                    "position": {
-                        "startLine": 49,
-                        "startColumn": 4,
-                        "startOffset": 3668,
-                        "endLine": 53,
-                        "endColumn": 12,
-                        "endOffset": 4083
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 50,
-                    "startColumn": 4,
-                    "startOffset": 3623,
-                    "endLine": 51,
-                    "endColumn": 12,
-                    "endOffset": 3725
-                },
-                "from": {
-                    "file": "/Users/fosterapps/react-native/image-recognition/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-v11/values-v11.xml",
+                    "file": "/Users/gustavomoreno/Documents/react-native/Miraa/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/values-v11/values-v11.xml",
                     "position": {
                         "startLine": 56,
                         "startColumn": 4,
-                        "startOffset": 4318,
+                        "startOffset": 4148,
                         "endLine": 57,
                         "endColumn": 12,
-                        "endOffset": 4420
+                        "endOffset": 4250
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 52,
+                    "startLine": 58,
                     "startColumn": 4,
-                    "startOffset": 3730,
-                    "endLine": 53,
+                    "startOffset": 4255,
+                    "endLine": 59,
                     "endColumn": 12,
-                    "endOffset": 3854
+                    "endOffset": 4379
                 },
                 "from": {
-                    "file": "/Users/fosterapps/react-native/image-recognition/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-v11/values-v11.xml",
+                    "file": "/Users/gustavomoreno/Documents/react-native/Miraa/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/values-v11/values-v11.xml",
                     "position": {
                         "startLine": 58,
                         "startColumn": 4,
-                        "startOffset": 4425,
+                        "startOffset": 4255,
                         "endLine": 59,
                         "endColumn": 12,
-                        "endOffset": 4549
+                        "endOffset": 4379
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 54,
+                    "startLine": 60,
                     "startColumn": 4,
-                    "startOffset": 3859,
+                    "startOffset": 4384,
                     "endColumn": 70,
-                    "endOffset": 3925
+                    "endOffset": 4450
                 },
                 "from": {
-                    "file": "/Users/fosterapps/react-native/image-recognition/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-v11/values-v11.xml",
+                    "file": "/Users/gustavomoreno/Documents/react-native/Miraa/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 4,
+                        "startOffset": 4384,
+                        "endColumn": 70,
+                        "endOffset": 4450
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 4455,
+                    "endColumn": 82,
+                    "endOffset": 4533
+                },
+                "from": {
+                    "file": "/Users/gustavomoreno/Documents/react-native/Miraa/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 4,
+                        "startOffset": 4455,
+                        "endColumn": 82,
+                        "endOffset": 4533
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 4538,
+                    "endLine": 114,
+                    "endColumn": 12,
+                    "endOffset": 8467
+                },
+                "from": {
+                    "file": "/Users/gustavomoreno/Documents/react-native/Miraa/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/values-v11/values-v11.xml",
                     "position": {
                         "startLine": 62,
                         "startColumn": 4,
-                        "startOffset": 4784,
-                        "endColumn": 70,
-                        "endOffset": 4850
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 55,
-                    "startColumn": 4,
-                    "startOffset": 3930,
-                    "endColumn": 82,
-                    "endOffset": 4008
-                },
-                "from": {
-                    "file": "/Users/fosterapps/react-native/image-recognition/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-v11/values-v11.xml",
-                    "position": {
-                        "startLine": 63,
-                        "startColumn": 4,
-                        "startOffset": 4855,
-                        "endColumn": 82,
-                        "endOffset": 4933
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 56,
-                    "startColumn": 4,
-                    "startOffset": 4013,
-                    "endLine": 106,
-                    "endColumn": 12,
-                    "endOffset": 7716
-                },
-                "from": {
-                    "file": "/Users/fosterapps/react-native/image-recognition/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-v11/values-v11.xml",
-                    "position": {
-                        "startLine": 64,
-                        "startColumn": 4,
-                        "startOffset": 4938,
+                        "startOffset": 4538,
                         "endLine": 114,
                         "endColumn": 12,
-                        "endOffset": 8641
+                        "endOffset": 8467
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 107,
+                    "startLine": 115,
                     "startColumn": 4,
-                    "startOffset": 7721,
-                    "endLine": 158,
+                    "startOffset": 8472,
+                    "endLine": 168,
                     "endColumn": 12,
-                    "endOffset": 11564
+                    "endOffset": 12541
                 },
                 "from": {
-                    "file": "/Users/fosterapps/react-native/image-recognition/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-v11/values-v11.xml",
+                    "file": "/Users/gustavomoreno/Documents/react-native/Miraa/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/values-v11/values-v11.xml",
                     "position": {
                         "startLine": 115,
                         "startColumn": 4,
-                        "startOffset": 8646,
-                        "endLine": 166,
+                        "startOffset": 8472,
+                        "endLine": 168,
                         "endColumn": 12,
-                        "endOffset": 12489
+                        "endOffset": 12541
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 159,
+                    "startLine": 169,
                     "startColumn": 4,
-                    "startOffset": 11569,
+                    "startOffset": 12546,
                     "endColumn": 90,
-                    "endOffset": 11655
+                    "endOffset": 12632
                 },
                 "from": {
-                    "file": "/Users/fosterapps/react-native/image-recognition/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-v11/values-v11.xml",
+                    "file": "/Users/gustavomoreno/Documents/react-native/Miraa/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/values-v11/values-v11.xml",
                     "position": {
                         "startLine": 169,
                         "startColumn": 4,
-                        "startOffset": 12724,
+                        "startOffset": 12546,
                         "endColumn": 90,
-                        "endOffset": 12810
+                        "endOffset": 12632
                     }
                 }
             }

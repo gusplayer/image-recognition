@@ -1,4 +1,4 @@
-#Mon May 22 18:01:54 COT 2017
-base.0=/Users/fosterapps/react-native/image-recognition/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+#Fri Jun 02 09:38:43 COT 2017
+base.0=/Users/gustavomoreno/Documents/react-native/Miraa/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
 renamed.0=classes.dex
-file.0=/Users/fosterapps/react-native/image-recognition/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
+file.0=/Users/gustavomoreno/Documents/react-native/Miraa/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

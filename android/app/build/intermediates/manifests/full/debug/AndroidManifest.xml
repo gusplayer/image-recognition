@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.led3"
+    package="com.miraa"
     android:versionCode="1"
     android:versionName="1.0" >
 
@@ -17,13 +17,13 @@
     <android:uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
 
     <application
-        android:name="com.led3.MainApplication"
+        android:name="com.miraa.MainApplication"
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:theme="@style/AppTheme" >
         <activity
-            android:name="com.led3.MainActivity"
+            android:name="com.miraa.MainActivity"
             android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
             android:label="@string/app_name"
             android:windowSoftInputMode="adjustResize" >
@@ -37,13 +37,18 @@
 
         <provider
             android:name="android.support.v4.content.FileProvider"
-            android:authorities="com.led3.provider"
+            android:authorities="com.miraa.provider"
             android:exported="false"
             android:grantUriPermissions="true" >
             <meta-data
                 android:name="android.support.FILE_PROVIDER_PATHS"
                 android:resource="@xml/provider_paths" />
         </provider>
+
+        <activity
+            android:name="com.yalantis.ucrop.UCropActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
     </application>
 
 </manifest>
