@@ -11,7 +11,8 @@ import {
   View,
   TouchableHighlight,
   Image,
-  ActivityIndicator
+  ActivityIndicator,
+  StatusBar
 } from 'react-native';
 
 import Icon from 'react-native-vector-icons/EvilIcons';
@@ -138,7 +139,7 @@ export default class home extends Component {
   }
 
   onPressButtonGET(){
-    fetch('http://led-ls.co/recognitionimage',{
+    fetch('https://led-ls.co/recognitionimage',{
       'method':'POST',
       headers: {
       'Accept': 'application/json',
@@ -160,7 +161,10 @@ export default class home extends Component {
   render() {
     return (
 
+
       <View style={{flex:1, backgroundColor: '#1E2426'}}>
+
+      <StatusBar barStyle="light-content"/>
 
         <View style={styles.top} >
         <TouchableHighlight onPress={this.handleLegal.bind(this)} style={styles.icons}>

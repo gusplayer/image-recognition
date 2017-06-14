@@ -4,7 +4,8 @@ import {
   StyleSheet,
   Text,
   View,
-  Image
+  Image,
+  StatusBar
 } from 'react-native';
 
 
@@ -13,6 +14,7 @@ export default class instrucciones extends Component {
   render(){
     return(
         <View style={styles.container}>
+        <StatusBar barStyle="dark-content"/>
          <Image style={styles.fondo} source={require('../images/instruc.png')} />
        </View>
     )
@@ -20,6 +22,7 @@ export default class instrucciones extends Component {
 }
 const styles = StyleSheet.create({
   container: {
+    marginTop:30,
     flex:1,
     alignItems:'center',
     justifyContent:'center',

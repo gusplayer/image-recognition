@@ -26,13 +26,12 @@ export default class Miraa extends Component {
     <Router>
       <Scene key="root">
 
-        <Scene key="home" component={Home} title="Miràà" hideNavBar={true}/>
-        <Scene key="instrucciones" component={Instrucciones} title="Miràà" hideNavBar={true}/>
-        <Scene key="legal" component={Legal} title="Miràà" hideNavBar={true}/>
-        <Scene key="home" component={Home} title="Miràà" hideNavBar={true}/>
-        <Scene key="fail" component={Fail} title="Incorrecto"/>
+        <Scene key="home" component={Home} title="Miràà" hideNavBar={true} initial={true} />
+        <Scene key="instrucciones" component={Instrucciones} title="Instrucciones"  hideNavBar={false} animation tabs={true}/>
+        <Scene key="legal" component={Legal} title="Legal"  hideNavBar={false}/>
+        <Scene key="fail" component={Fail} title="Incorrecto"  hideNavBar={true}/>
         <Scene key="correctoVideo" component={SuccesVideo} title="Contenido" hideNavBar={true} animation/>
-        <Scene key="correctoImagen" component={SuccesImagen} title="Contenido" hideNavBar={true} animation/>
+        <Scene key="correctoImagen" component={SuccesImagen} title="Correcto" hideNavBar={false} animation/>
       </Scene>
     </Router>
     )

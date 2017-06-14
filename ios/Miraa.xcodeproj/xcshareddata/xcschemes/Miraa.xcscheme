@@ -124,6 +124,7 @@
    </AnalyzeAction>
    <ArchiveAction
       buildConfiguration = "Release"
+      customArchiveName = "Miraa"
       revealArchiveInOrganizer = "YES">
    </ArchiveAction>
 </Scheme>

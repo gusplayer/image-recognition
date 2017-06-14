@@ -4,10 +4,13 @@ import {
   AppRegistry,
   StyleSheet,
   Text,
-  View
+  View,
+  TouchableHighlight
 } from 'react-native';
 
 import YouTube from 'react-native-youtube';
+
+import {Actions} from 'react-native-router-flux';
 
 export default class fail extends Component {
 
@@ -22,6 +25,10 @@ export default class fail extends Component {
    };
  }
 
+ returnHome(){
+     Actions.pop()
+ }
+
   render(){
     return(
       <View style={styles.container}>
@@ -34,17 +41,21 @@ export default class fail extends Component {
                 videoId={video}   // A playlist's ID, overridden by `videoId`
                 play={true}                      // control playback of video with true/false
                 fullscreen={true}               // control whether the video should play in fullscreen or inline
-                loop={true}                     // control whether the video should loop when ended
+                loop={true}           // control whether the video should loop when ended
                 onReady={e => this.setState({ isReady: true })}
                 onChangeState={e => this.setState({ status: e.state })}
                 onChangeQuality={e => this.setState({ quality: e.quality })}
                 onError={e => this.setState({ error: e.error })}
                 onProgress={e => this.setState({ currentTime: e.currentTime, duration: e.duration })}
-                showFullscreenButton={false}
-                fullscreen={true}
+                showFullscreenButton={true}
 
                 style={{ alignSelf: 'stretch', height: 300, backgroundColor: 'black', marginVertical: 10 }}
         />
+
+        <TouchableHighlight onPress={this.returnHome.bind(this)} style={styles.icons} >
+              <Text style={styles.texto}>Volver al inicio</Text>
+         </TouchableHighlight>
+
       </View>
     )
   }
@@ -63,6 +74,19 @@ const styles = StyleSheet.create({
     justifyContent:'space-around',
     padding:20,
     textAlign:'center'
+  },
+  icons:{
+    height: 48,
+    width: 200,
+    flexDirection: 'row',
+    backgroundColor: 'black',
+    borderColor: "rgba(255,90,95,1)",
+    alignItems: 'center',
+    justifyContent: 'center',
+
+  },
+  texto:{
+    color: '#2AABDE'
   }
 
 });

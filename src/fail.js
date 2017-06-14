@@ -5,7 +5,8 @@ import {
   Text,
   View,
   TouchableHighlight,
-  Image
+  Image,
+  StatusBar
 } from 'react-native';
 
 import {Actions} from 'react-native-router-flux';
@@ -20,7 +21,7 @@ export default class fail extends Component {
   render(){
     return(
       <View style={styles.container}>
-
+      <StatusBar barStyle="dark-content"/>
          <Image style={styles.fondo} source={require('../images/fallo.png')}/>
 
          <Text style={styles.mensaje}>Lo siento, no encontramos coincidencia.</Text>
