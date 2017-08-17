@@ -22,7 +22,7 @@ export default class instrucciones extends Component {
 }
 const styles = StyleSheet.create({
   container: {
-    marginTop:30,
+    marginTop:50,
     flex:1,
     alignItems:'center',
     justifyContent:'center',
@@ -32,7 +32,7 @@ const styles = StyleSheet.create({
       flex: 1,
       height: 100,
       resizeMode: 'contain',
-      margin: 10,
+      margin: 5,
     },
   mensaje:{
     color:'blue',
